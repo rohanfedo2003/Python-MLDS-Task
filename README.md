@@ -16,19 +16,6 @@ foundation in Machine Learning and Data Science.
 
 ------------------------------------------------------------------------
 
-## 📂 Repository Structure
-
-Each day contains practice files like:
-
-Day-01/\
-Day-02/\
-Day-03/
-
-Inside each folder: - Python scripts (.py) - Jupyter notebooks
-(.ipynb) - Practice problems - Concept-based exercises
-
-------------------------------------------------------------------------
-
 ## 🛠️ Tools & Technologies
 
 -   Python 3
