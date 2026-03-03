@@ -8,8 +8,8 @@ This repository contains my daily practice tasks in:
 -   Object-Oriented Programming (OOP)\
 -   Data Structures & Algorithms\
 -   NumPy & Pandas\
--   Data Visualization\
--   Machine Learning Basics
+-   ML & DS
+  
 
 I upload tasks daily to improve my coding skills and strengthen my
 foundation in Machine Learning and Data Science.
